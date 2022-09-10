@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+    
+}
+h1
+ {
+text-decoration: solid;
+margin: 10px;
+border: 1px solid #000000;
+
+outline: 5px dashed #6ef81e;
+outline-offset: 5px;
+} 
+
+h2{
+    text-decoration: line-through;
+    border: 5px solid #111010;
+}
+h3{
+    text-decoration: underline;
+    border: 2px solid #111010;
+}
